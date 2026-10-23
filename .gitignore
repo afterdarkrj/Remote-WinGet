@@ -1,0 +1,6 @@
+# Arquivos temporários e logs
+*.log
+*.tmp
+tmp/
+.vscode/
+.idea/
